@@ -1,0 +1,95 @@
+AI PROMPT — Booking & Appointment Website (Design-First)
+
+Role: You are a senior UX/UI designer and WordPress website architect.
+
+Task: Design a high-end booking & appointment website for a professional service (therapist / coach / consultant / barber). The website must feel calm, trustworthy, modern, and premium, with design quality as the top priority, while still supporting real-world booking logic.
+
+Primary Focus (Very Important):
+The visual design and user experience matter more than features. The website should look like something a real client would trust immediately. Avoid generic layouts. Use strong typography, spacing, color harmony, and subtle animations.
+
+Design Requirements:
+
+Calm, professional, confidence-inspiring aesthetic
+
+Soft neutral color palette (beige, off-white, muted greens/blues)
+
+Clean typography (serif for headings, modern sans-serif for body)
+
+Large whitespace and clear visual hierarchy
+
+Smooth, subtle transitions (no flashy animations)
+
+Mobile-first and responsive
+
+Clear call-to-action buttons (“Book a Session”, “Check Availability”)
+
+Pages to Design:
+
+Homepage
+
+Strong hero section with a calming headline
+
+Short trust-building intro
+
+Primary CTA: “Book an Appointment”
+
+Services Page
+
+Clearly presented service offerings
+
+Duration and pricing shown cleanly
+
+Booking Page
+
+Simple, minimal booking flow
+
+Calendar view with available time slots
+
+Step-by-step process (choose service → choose time → confirm)
+
+About / Trust Page
+
+Professional bio
+
+Credentials or experience
+
+Friendly, human tone
+
+Contact Page
+
+Minimal form
+
+Reassuring copy
+
+Booking Logic (Functional, Not Overcomplicated):
+
+Time slot availability
+
+Prevent double bookings
+
+Booking confirmation message
+
+Email notification to client and service provider
+
+Simple cancellation or rescheduling rules
+
+WordPress Constraints:
+
+Must be realistic to build with WordPress
+
+Assume booking handled via a plugin (e.g., Amelia, Bookly, or similar)
+
+Custom styling and layout are essential
+
+Output Expectations:
+
+Describe the visual style in detail
+
+Explain layout decisions
+
+Emphasize why the design builds trust
+
+Keep logic clean, realistic, and client-ready
+
+Overall Goal:
+Create a portfolio-worthy booking website that looks premium, feels calm, and would realistically convert visitors into bookings for a real professional.
